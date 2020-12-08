@@ -121,3 +121,46 @@ robots.txt 文件中可以使用下列指令
    7.**Meta标签**  Meta标签的优化（以前是搜索引擎优化的重要手法，现在不是关键因素，但仍不可忽略不急 ） 主要是：Meta description、Meta keywords的设置。关键字密度要适中，也就是说你的关键字必须在页面中出现若干次。
 
    8.**版权部分**  版权部分加上网站名称和链接或是强调一些关键词是很有必要，有总比没有强。
+
+   9.**支持移动端**  这点可能对比较大的网站有些不友好，而且有一些网站只是针对PC端，还有必要做移动端的适配吗？  看看google怎么说的
+	
+	移动设备正在改变世界。当今时代，智能手机几乎人手一部，大家都不停地用它与外界交流以及查找信息。
+
+	在许多国家/地区，智能手机的数量已超过个人计算机的数量，因此拥有适合移动设备的网站已成为提升在线影响力的重要因素。
+
+**如果您的网站尚不适合在移动设备上浏览，您应立即采取行动**
+
+并且google有专门针对移动设备适应性测试的网站 [移动设备适应性](https://search.google.com/test/mobile-friendly  "google移动设备适应性") , 可见对移动设备适配的重要性 。
+
+附上google的官方说明  <a href="https://developers.google.com/search/mobile-sites">https://developers.google.com/search/mobile-sites</a>
+
+   10.**外链**
+
+外链的数量，也对排名有一定的影响，而且像 [维基百科](https://en.wikipedia.org/wiki/Wiki  "维基百科")     维基百科这类的网站如果有你网站的外链，那权重简直是质的飞跃.
+
+   11.**google工具**
+
+google官方提供了很多工具，非常方便
+
+<a href="https://search.google.com/test/mobile-friendly">网页适应性测试</a>
+
+<a href="https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl">请求 Google 重新抓取您的网址</a>
+
+
+<a href="https://support.google.com/webmasters/answer/6062598">robots.txt测试工具</a>
+
+<a href="https://validator.w3.org/">W3C HTML验证</a>
+
+<a href="https://developers.google.com/search/docs/basics/measure-performance-on-google/">衡量网站在Google搜索中的表现</a>
+
+太多了 ，具体去google官方可以查阅，只是读资料，都不是一两天能够读完的感觉，就不一一列举了，就列了几个很常用的。
+
+总之，SEO是个慢工细活的工程， 不要指望三两天就能看到效果，每一点小小的改动都有可能影响你网站的权重（比如列举出来的，支持移动端~）。 
+
+
+
+
+
+
+
+
