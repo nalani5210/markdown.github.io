@@ -30,10 +30,20 @@
 2.安装Hexo
 
 		$ npm install -g hexo-cli
-3.定位到你本地的hexo文件夹(你自己创建的文件夹，任何路径任何名字都可以，最好别有中文),然后npm源再切换一下淘宝（切换源这一步可以在任意目录执行）
+3.定位到你本地的hexo文件夹(你自己创建的文件夹，任何路径任何名字都可以，最好别有中文),  
 
-		$ cd /d D:\Hexo
+		$ cd /d D:\Hexo		
+4.创建主文件夹 （速度可能有点慢，如果换了源时间还特别长，看看是不是github卡住了，挂一个代理试试），这个文件夹就是以后放代码的地方，建议别乱放
+
+
+		$ hexo init bolg  
+如果这一步卡住了，那就追加一个npm的安装源
+
 		$ npm --registry https://registry.npm.taobao.org info underscore
-3.创建博客主文件夹 （速度可能有点慢，如果换了源时间还特别长，看看是不是github卡住了，挂一个代理试试）
+5.生成网站静态文件 （默认设置public文件夹）
 
-		$ hexo init bolg
+		$ hexo g
+6.启动服务
+
+		$ hexo s
+打开浏览器访问 http://localhost:4000就能看到内容。默认的官方主题，可能会比较丑
