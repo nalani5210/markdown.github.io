@@ -12,4 +12,3 @@
 那问题出在哪了？ 首先去电报咨询了大神，结合在网上的资料，给出了解决方案，就是去域名的后台，添加两条解析记录就可以！
 
 ![添加解析记录](https://github.com/nalani5210/love.github.io/blob/bolg/%E7%94%B3%E8%AF%B7Google%20Adsence/adsence%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%AE%A1%E6%A0%B8.png?raw=true "添加解析记录")
-
