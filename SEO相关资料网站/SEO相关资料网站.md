@@ -18,6 +18,7 @@
    10.  https://www.webfx.com/blog/marketing/google-search-console/
    11.  https://answerthepublic.com/   长尾关键字 ， 谷歌自动补全
    12.  https://ahrefs.com/blog/zh/seo-tips/
+   13.  登陆ahrefs，查找竞争域名的关键字 做长尾关键字， 周一开始！ 周末放松
 
 	
 
