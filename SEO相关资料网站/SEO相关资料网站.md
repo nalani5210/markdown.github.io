@@ -18,6 +18,10 @@
    10.  https://www.webfx.com/blog/marketing/google-search-console/
    11.  https://answerthepublic.com/   
    12.  https://ahrefs.com/blog/zh/seo-tips/
+   
+   13.  https://ahrefs.com/blog/title-tag-seo/   优化标题 重要
+   14.  https://serpsim.com/    SERP工具
+   15.  https://developers.google.com/search/docs/guides/search-gallery  结构化数据   学习
 
 	
 
