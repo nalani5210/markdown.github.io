@@ -22,6 +22,7 @@
    13.  https://ahrefs.com/blog/title-tag-seo/   优化标题 重要
    14.  https://serpsim.com/    SERP工具
    15.  https://developers.google.com/search/docs/guides/search-gallery  结构化数据   学习
+   16.  https://web.dev/fast/#lazy-load-images-and-video   提高页面加载速度的各种方法  太多了。。 慢慢看
 
 	
 
