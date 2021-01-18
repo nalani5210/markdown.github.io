@@ -28,7 +28,7 @@
    19.  https://search.google.com/search-console/disavow-links?utm_source=wmx&utm_medium=report-banner&utm_content=disavow-links   可以手动添加拒绝的外链域名
    20.  https://www.copyscape.com/   查网页的潜在重复问题
    21.  https://wordcounter.net/website-word-count    查网页的单词数
-
+   20.  https://web.dev/measure/  速度测试  很重要
 	
 
 
