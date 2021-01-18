@@ -26,6 +26,8 @@
    17.  https://magiclen.org/nginx-rewrite/       nginx   301转址
    18.  https://ahrefs.com/blog/zh/archive/    ahrefs的博客汇总 ， 前面很多文章都是在这下面的
    19.  https://search.google.com/search-console/disavow-links?utm_source=wmx&utm_medium=report-banner&utm_content=disavow-links   可以手动添加拒绝的外链域名
+   20.  https://www.copyscape.com/   查网页的潜在重复问题
+   21.  https://wordcounter.net/website-word-count    查网页的单词数
 
 	
 
