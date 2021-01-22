@@ -32,6 +32,7 @@
    23.  https://developers.google.com/web/fundamentals/performance/get-started/textcontent-3
    24.  http://www.gidnetwork.com/tools/gzip-test.php   查看是否启用了gzip压缩
 	
+  vultr
 
 
 
