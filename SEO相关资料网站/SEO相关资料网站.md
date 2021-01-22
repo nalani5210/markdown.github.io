@@ -29,6 +29,8 @@
    20.  https://www.copyscape.com/   查网页的潜在重复问题
    21.  https://wordcounter.net/website-word-count    查网页的单词数
    22.  https://web.dev/measure/  速度测试  很重要
+   23.  https://developers.google.com/web/fundamentals/performance/get-started/textcontent-3
+   24.  http://www.gidnetwork.com/tools/gzip-test.php   查看是否启用了gzip压缩
 	
 
 
