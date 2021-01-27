@@ -31,11 +31,11 @@
    22.  https://web.dev/measure/  速度测试  很重要
    23.  https://developers.google.com/web/fundamentals/performance/get-started/textcontent-3
    24.  http://www.gidnetwork.com/tools/gzip-test.php   查看是否启用了gzip压缩
-   25.  https://segmentfault.com/a/1190000011065339
-   26.  https://zhuanlan.zhihu.com/p/97341741
-   27.  https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/?utm_source=lighthouse&utm_medium=unknown#avoid_scripts_that_pollute_the_global_scope
+   25.  https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/?utm_source=lighthouse&utm_medium=unknown#avoid_scripts_that_pollute_the_global_scope
+   26.  延迟加载图片  https://web.dev/codelab-use-lazysizes-to-lazyload-images/  博客
+   27.  利用critical提取关键内联css   博客
 	
-  vultr
+    vultr
 
 
 
