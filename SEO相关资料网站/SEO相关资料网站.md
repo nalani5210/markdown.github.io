@@ -33,6 +33,7 @@
    24.  http://www.gidnetwork.com/tools/gzip-test.php   查看是否启用了gzip压缩
    25.  https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/?utm_source=lighthouse&utm_medium=unknown#avoid_scripts_that_pollute_the_global_scope
    26.  https://blog.csdn.net/iteye_8630/article/details/82370159   各种检测网站的工具
+   27.  https://tinypng.com/    压缩图片
 	
     vultr
 
