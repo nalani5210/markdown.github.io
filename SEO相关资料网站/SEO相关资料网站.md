@@ -18,9 +18,7 @@
    10.  https://www.webfx.com/blog/marketing/google-search-console/
    11.  https://answerthepublic.com/   
    12.  https://ahrefs.com/blog/zh/seo-tips/
-   
    13.  https://ahrefs.com/blog/title-tag-seo/   优化标题 重要
-   14.  https://serpsim.com/    SERP工具
    15.  https://developers.google.com/search/docs/guides/search-gallery  结构化数据   学习 ； 顺便看左侧菜单 ，很多很多需要优化
    16.  https://web.dev/fast/#lazy-load-images-and-video   提高页面加载速度的各种方法  太多了。。 慢慢看
    17.  https://magiclen.org/nginx-rewrite/       nginx   301转址
@@ -34,6 +32,7 @@
    25.  https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/?utm_source=lighthouse&utm_medium=unknown#avoid_scripts_that_pollute_the_global_scope
    26.  https://blog.csdn.net/iteye_8630/article/details/82370159   各种检测网站的工具
    27.  https://tinypng.com/    压缩图片
+   28.  https://ahrefs.com/blog/zh/keyword-cannibalization/   关键字蚕食问题  ，  现在网站没有这个问题
 	
     vultr
 
