@@ -31,8 +31,9 @@
    26.  https://blog.csdn.net/iteye_8630/article/details/82370159   各种检测网站的工具
    27.  https://tinypng.com/    压缩图片
    28.  https://ahrefs.com/blog/zh/keyword-cannibalization/   关键字蚕食问题  ，  现在网站没有这个问题
+   29.  vultr服务器
 	
-    vultr
+    
 
 
 
