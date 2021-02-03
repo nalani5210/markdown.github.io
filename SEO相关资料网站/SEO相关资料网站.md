@@ -31,6 +31,7 @@
    27.  https://tinypng.com/    压缩图片
    28.  https://ahrefs.com/blog/zh/keyword-cannibalization/   关键字蚕食问题  ，  现在网站没有这个问题
    29.  vultr服务器
+   30.  kd 关键词难度   volume 浏览量
 	
     
 
