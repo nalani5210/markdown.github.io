@@ -14,7 +14,6 @@
    8.  做外链的一些论坛，不需要登录，只需要写上你的名字、邮箱、回复内容就可以。 这样在名字那写上你的网站，以超链接的形式留言，搜索引擎也会收录，我看别的网站学到的。  
    9.  排名靠前的网站，外链动辄都是几十万，也都是几年的积累，肯定也有一部分是刷出来的 ，刷固定是有效果的 但是有没有副作用就不知道了。  很多技术网站，外链都是做菜的....
    10.  https://www.webfx.com/blog/marketing/google-search-console/
-   11.  https://answerthepublic.com/   
    12.  https://ahrefs.com/blog/zh/seo-tips/
    13.  https://ahrefs.com/blog/title-tag-seo/   优化标题 重要
    15.  https://developers.google.com/search/docs/guides/search-gallery  结构化数据   学习 ； 顺便看左侧菜单 ，很多很多需要优化
