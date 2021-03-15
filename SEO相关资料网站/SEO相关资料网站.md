@@ -12,8 +12,7 @@
    6.  <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google官方网站性能优化</a> . 好像也有插件，我习惯直接在浏览器直接测试
    7.  这一点是针对第五点说的， 如果你是ahrefs的自由用户（非付费），而你又想看你相关性网站的外链是怎么做的 ，那就别登陆，直接打开<a href="https://ahrefs.com/backlink-checker/" target="_blank">https://ahrefs.com/backlink-checker/</a> 直接查就可以。 虽然能看的资料和付费用户还是少，但是肯定是有价值的。 我就是这么慢慢做的外链， 一个一个打开他们的外链网站，找相关的博客或者论坛去留言，或者自己开博客写帖子等等，这样很麻烦，但是想不花钱做外链本来就是很累的一件事.
    8.  做外链的一些论坛，不需要登录，只需要写上你的名字、邮箱、回复内容就可以。 这样在名字那写上你的网站，以超链接的形式留言，搜索引擎也会收录，我看别的网站学到的。  
-   9.  排名靠前的网站，外链动辄都是几十万，也都是几年的积累，肯定也有一部分是刷出来的 ，刷固定是有效果的 但是有没有副作用就不知道了。  很多技术网站，外链都是做菜的....
-   10.  https://www.webfx.com/blog/marketing/google-search-console/
+   9.  排名靠前的网站，外链动辄都是几十万，也都是几年的积累，肯定也有一部分是刷出来的 ，刷肯定是有效果的 但是有没有副作用就不知道了。  很多技术网站，外链都是做菜的....
    12.  https://ahrefs.com/blog/zh/seo-tips/
    13.  https://ahrefs.com/blog/title-tag-seo/   优化标题 重要
    15.  https://developers.google.com/search/docs/guides/search-gallery  结构化数据   学习 ； 顺便看左侧菜单 ，很多很多需要优化
